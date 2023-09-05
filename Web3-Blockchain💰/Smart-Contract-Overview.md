@@ -9,7 +9,7 @@ In the world of decentralized finance, there are thousands of mechanisms and tec
 
 A constructive mechanism introduced by Ethereum with which blockchain transactions are performed securely. You might have come across this term several times without having any idea of what it is or even imagining yourself writing a smart contract. Maybe all you need to do is to be **smart**!😀 shall we?
 
-# What is Smart Contracts?
+# What is Smart Contract?
 A smart contract in this context is quite different from a smart legal contract in a physical setting but they are both carried out on the same motive which is _agreement_.
 
 A smart contract in clear terms is a computational agreement on a blockchain that self-executes as instructed by a few lines of code to seal transactions that are trackable but irreversible. It automates the terms of an agreement between two anonymous parties without legal authorities, a centralized body or external enforcement. An example of this is when you bridge stable coins to another coin or a token on a DEX(Decentralized Exchange) and all you have to do is to sign a digital contract with your wallet to record the transaction.
