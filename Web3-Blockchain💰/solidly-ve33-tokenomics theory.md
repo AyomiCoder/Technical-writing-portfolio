@@ -2,7 +2,7 @@
 ## A Game-Changing Approach to DeFi
 
 
-[solidly](https://cdn.hashnode.com/res/hashnode/image/upload/v1688060436804/3528697f-d813-48ee-a8a9-1fd1ca0a45af.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+![solidly](https://cdn.hashnode.com/res/hashnode/image/upload/v1688060436804/3528697f-d813-48ee-a8a9-1fd1ca0a45af.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
 
 Decentralized finance (DeFi) has grown rapidly in recent years, but it has also faced some challenges. One of the biggest challenges is liquidity. DeFi protocols need liquidity in order to function properly, but it can be difficult to attract and retain liquidity providers.
@@ -21,7 +21,7 @@ The ve(3,3) model in Solidly is designed to encourage users to stake their token
 
 # How does ve(3,3) work in Solidly?
 
-[solidly](https://cdn.hashnode.com/res/hashnode/image/upload/v1688060327243/7c366cc7-9c44-4c77-934d-8a2bbf86da80.jpeg?auto=compress,format&format=webp)
+![solidly](https://cdn.hashnode.com/res/hashnode/image/upload/v1688060327243/7c366cc7-9c44-4c77-934d-8a2bbf86da80.jpeg?auto=compress,format&format=webp)
 
 In Solidly, users who stake their tokens will receive veTokens. The amount of veTokens that a user receives is proportional to the amount of tokens that they stake. veTokens can then be used to vote on protocol decisions and to earn trading fees from the pools that they vote for. The ve(3,3) model in Solidly is designed to work in a cyclical way. When users stake their tokens, they receive veTokens. These veTokens can then be used to vote on protocol decisions. The more veTokens a user has, the more weight their vote will have.
 
