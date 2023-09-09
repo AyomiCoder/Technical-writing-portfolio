@@ -1,4 +1,4 @@
-![Node Js](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--u9yx6diw--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanuqor6vk1ibmhq8ntrf.png&tbnid=R2Si29gvzbPxIM&vet=12ahUKEwicq5q9sp2BAxUr47sIHRJOBfIQMygCegQIARB4..i&imgrefurl=https%3A%2F%2Fdev.to%2Fmidnqp%2Fnotes-advanced-nodejs-concepts-by-stephen-grider-4pp7&docid=Y7_nkkSjKgnrhM&w=1000&h=500&q=node%20js&ved=2ahUKEwicq5q9sp2BAxUr47sIHRJOBfIQMygCegQIARB4)
+![Node Js](https://cdn.hashnode.com/res/hashnode/image/upload/v1694260731672/628a6e9a-cd4f-4db3-890c-0623bf919974.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
 # Creating a Node.js Server with CMD/Vim: A Step-by-Step Guide
 
@@ -16,7 +16,7 @@ Before we begin, ensure that you have the following prerequisites in place:
 
 ## Creating a Node.js Project Directory
 
-Let's initiate the process by creating a directory for your Node.js project. Open CMD and navigate to the location where you intend to create your project folder.
+Let's initiate the process by creating a directory for your Node.js project. Open CMD and navigate to the location where you intend to create your project folder and run this command below:
 
 ```bash
 mkdir my-node-server
